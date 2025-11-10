@@ -1,0 +1,47 @@
+Diligent E-Commerce Website — Prompts Used
+==========================================
+
+This document lists the key prompts intentionally designed and used to generate the project's deliverables. 
+Each section reflects my reasoning process and structured prompting approach to create clean, modular, and production-oriented outputs.
+
+------------------------------------------------------------
+🧭 Goal: Create a concise technical architecture document for a lightweight MERN e-commerce project.
+💬 Prompt Used:
+"Draft a professional technical architecture document for an e-commerce website built using the MERN stack. 
+Include: project overview, frontend–backend architecture, key endpoints, database setup, state management, 
+and deployment recommendations. Keep the tone concise and technical, similar to what a candidate would submit with a project."
+
+------------------------------------------------------------
+🧭 Goal: Develop a simple yet realistic backend API using Express.js and MongoDB Atlas.
+💬 Prompt Used:
+"Write an Express.js backend with sample routes:
+- GET /api/products
+- GET /api/products/:id
+- POST /api/cart/checkout (mock)
+Use Mongoose for product models, include a seed.js script for sample data, 
+and ensure the project can run locally with .env configuration for MongoDB Atlas."
+
+------------------------------------------------------------
+🧭 Goal: Design a clean React frontend with Tailwind CSS and Material UI integration.
+💬 Prompt Used:
+"Create a React frontend with Tailwind CSS and Material UI components. 
+Include pages for product listing, product details, and cart management. 
+Implement React Router for navigation and localStorage for cart state persistence. 
+Keep the UI minimal, responsive, and visually consistent."
+
+------------------------------------------------------------
+🧭 Goal: Ensure submission includes clear instructions and deliverables.
+💬 Prompt Used:
+"Prepare three final deliverables for the Diligent assignment:
+1. Technical Architecture PDF (professional, concise)
+2. Codebase folder (frontend + backend)
+3. Prompts file documenting the prompt strategy used to generate the deliverables."
+
+------------------------------------------------------------
+🧭 Goal: Optimize presentation for evaluation.
+💬 Prompt Used:
+"Format the prompts file in a human-readable structure that highlights the logical flow of prompt design and intention. 
+Avoid any AI identifiers or unnecessary verbosity — keep it transparent, strategic, and professional."
+
+
+
